@@ -1,6 +1,6 @@
 # 🎮 Simon Says Game
 
-A simple and interactive "Simon Says" game built using HTML, CSS, and JavaScript.
+A simple and interactive "Simon Says" game built using HTML, CSS, and JavaScript..
 
 ## 🚀 How to Play
 
